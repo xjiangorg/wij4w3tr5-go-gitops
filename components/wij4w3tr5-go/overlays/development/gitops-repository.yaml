@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wij4w3tr5-go-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/wij4w3tr5-go-gitops
